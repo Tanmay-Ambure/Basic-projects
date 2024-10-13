@@ -1,0 +1,19 @@
+label{
+    display: block;
+    text-align: center;
+    color: black;
+    font-size: 100px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.Guru{
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
